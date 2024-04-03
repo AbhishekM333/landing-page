@@ -1,0 +1,140 @@
+.header{
+    background-color:#2d3b4e;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+.header-links{
+    display: flex;
+   gap:20px;
+}
+.contents{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.input-box{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(143, 140, 140);
+    color: rgb(228, 221, 221);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.box{
+    width: 200px;
+    background-color:rgb(143, 140, 140) ;
+    border: none;
+    
+}
+.first{
+    width: 400px;
+    height: 200px;
+    margin-right: 280px;
+    
+}
+.contents{
+    height: 300px;
+}
+.maintext{
+    color: white;
+}
+.smalltext{
+    color: rgb(160, 151, 151);
+}
+.button{
+    background-color: rgb(29, 110, 231);
+    color: white;
+    padding: 5px;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.squares{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.square{
+    width: 250px;
+    
+}
+.squarebox{
+    width: 80px;
+    height: 80px;
+    border: 3px solid rgb(89, 116, 236);
+    margin-left: 30px;
+    border-radius: 10px;
+    
+}
+.quotebox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(163, 156, 156);
+    height: 160px;
+   
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 600px;
+    color: rgb(56, 54, 54);
+    font-size: 20px;
+}
+.thor{
+    margin-left: 350px;
+    font-weight: bold;
+    color: black;
+}
+.sign{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(52, 110, 236);
+    margin: 20px 400px;
+    flex-direction: column;
+   
+}
+.signcontainer{
+    background-color: white;
+}
+.signbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.call{
+    font-size: 30px;
+}
+
+.signbutton button{
+    background-color: rgb(52, 110, 236);
+    color: white;
+    border:2px  solid white;
+    width: 70px;
+    margin-top: 10px;
+    margin-left:20px ;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    background-color:#2d3b4e;
+    color: white;
+}
